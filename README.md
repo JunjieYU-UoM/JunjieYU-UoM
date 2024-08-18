@@ -3,7 +3,7 @@
 I earned my Master's degree in Environmental Engineering (2023) from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (UCAS, China), hosted by [Research Center for Eco-Environmental Sciences](http://www.rcees.cas.cn/) (RCEES), [Chinese Academy of Sciences](
 https://www.cas.cn/) (CAS) (one of the premier research units for ecology and environmental scientific research), under the supervision of Prof. [Dongsheng Wang](https://person.zju.edu.cn/0021195) (2022- Zhejiang University, China). Before that, I received my B.Eng. in Environmental Engineering (2020) from [China University of Mining and Technology-Beijing](https://www.cumtb.edu.cn/) (CUMTB, China).
 
-🌱 My research focuses on the application of Big Data, Cloud Computing, Reinforcement Learning, and Data-Driven modeling to address practical environmental challenges, particularly in the realm of urban climates.
+🌱 My research focuses on the application of Data sciences, Reinforcement Learning/Optimization, and Data-Driven modeling to address practical environmental challenges, particularly in the realm of intelligent urban adaptation and urban climate modeling.
 
 👀 If you are interested in the topics above and would like to engage in a discussion, please feel free to reach out to me via email at (📫 junjie.yu AT postgrad DOT manchester DOT ac DOT uk). (English, Mandarin, Cantonese)
 
